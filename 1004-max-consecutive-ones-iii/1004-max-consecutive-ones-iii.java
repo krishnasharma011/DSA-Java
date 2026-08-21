@@ -6,13 +6,11 @@ class Solution {
         int ans=0;
         int temp=0;
         while(right<n){
-            if(nums[right]==0){
-                temp++;
-                while(temp>k){
-                    if(nums[left]==0) temp--;
-                    left++;
-                }
-            }
+            if(nums[right]==0) temp++;
+            if(temp>k){
+                if(nums[left]==0) temp--;
+                left++;
+            }    
             ans=Math.max(ans,right-left+1);
             right++;
         }
