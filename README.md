@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/krishnasharma011/DSA-Java/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/krishnasharma011/DSA-Java/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasharma011/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/krishnasharma011/DSA-Java/tree/main/0048-rotate-image/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
