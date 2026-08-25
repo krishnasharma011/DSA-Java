@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasharma011/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,8 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
