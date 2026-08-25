@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasharma011/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasharma011/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Sliding Window
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasharma011/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasharma011/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
