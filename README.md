@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/krishnasharma011/DSA-Java/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/krishnasharma011/DSA-Java/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/krishnasharma011/DSA-Java/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/krishnasharma011/DSA-Java/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
