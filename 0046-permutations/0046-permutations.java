@@ -2,19 +2,20 @@ class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> li=new ArrayList<>();
-        permutation(nums,ans,li,0);
+        permutations(ans,li,0,nums);
         return ans;
     }
 
-    private void permutation(int[] nums,List<List<Integer>> li,List<Integer> curr,int i){
-        if(i==nums.length){
-            li.add(new ArrayList<>(curr));
-            return;
+    private void permutations(List<List<Integer>> ans,List<Integer> li,int idx,int[] nums){
+        if(li.size()==nums.length){
+            ans.add(new ArrayList<>(li));
+            return ;
         }
-        for(int j=0;j<i+1;j++){
-            curr.add(j,nums[i]);
-            permutation(nums,li,curr,i+1); 
-            curr.remove(j);
+        for(int i=0;i<li.size()+1;i++){
+            li.add(i,nums[idx]);
+            permutations(ans,li,idx+1,nums);
+            li.remove(i);
         }
+
     }
 }
