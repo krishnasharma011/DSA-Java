@@ -8,11 +8,12 @@ class Solution {
     }
 
     private void permutations(List<List<Integer>> ans,List<Integer> curr,int idx,int[] nums){
-        if(curr.size()==nums.length){
-            if(!ans.contains(curr)) ans.add(new ArrayList<>(curr));
+        if(idx==nums.length){
+            ans.add(new ArrayList<>(curr));
             return ;
         }
-        for(int i=0;i<curr.size()+1;i++){
+        for(int i=0;i<idx+1;i++){
+            if(i>0 && curr.get(i-1)==nums[idx]) break;
             curr.add(i,nums[idx]);
             permutations(ans,curr,idx+1,nums);
             curr.remove(i);
