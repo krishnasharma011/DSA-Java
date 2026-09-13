@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/krishnasharma011/DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/krishnasharma011/DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/krishnasharma011/DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/krishnasharma011/DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/krishnasharma011/DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
