@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
