@@ -4,31 +4,41 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         } 
-        int[] indegree=new int[numCourses];
         for(int i=0;i<prerequisites.length;i++){
             int v=prerequisites[i][0];
             int u=prerequisites[i][1];
             adj.get(u).add(v);
-            indegree[v]++;
         }
-        Queue<Integer> q=new ArrayDeque<>();
+        int[] state=new int[numCourses];
         List<Integer> li=new ArrayList<>();
         for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0) q.add(i);
-        }
-        while(!q.isEmpty()){
-            int f=q.poll();
-            li.add(f);
-            for(int ngr:adj.get(f)){
-                indegree[ngr]--;
-                if(indegree[ngr]==0) q.add(ngr);
+            if(state[i]==0){
+                if(dfs(adj,i,state,li)){
+                    return new int[0];
+                }
             }
         }
         if(li.size()!=numCourses) return new int[0];
         int[] ans=new int[li.size()];
-        for(int i=0;i<li.size();i++){
-            ans[i]=li.get(i);
+        int j=li.size()-1;
+        for(int i=0;i<ans.length;i++){
+            ans[i]=li.get(j--);
         }
         return ans;
+    }
+
+    private boolean dfs(List<List<Integer>> adj,int s,int[] state,List<Integer> li){
+        state[s]=1;
+        for(int ngr:adj.get(s)){
+            if(state[ngr]==0){
+                if(dfs(adj,ngr,state,li)){
+                    return true;
+                }
+            }
+            else if(state[ngr]==1) return true;
+        }
+        state[s]=2;
+        li.add(s);
+        return false;
     }
 }
