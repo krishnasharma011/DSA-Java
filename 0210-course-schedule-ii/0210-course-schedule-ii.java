@@ -18,7 +18,6 @@ class Solution {
                 }
             }
         }
-        if(li.size()!=numCourses) return new int[0];
         int[] ans=new int[li.size()];
         int j=li.size()-1;
         for(int i=0;i<ans.length;i++){
