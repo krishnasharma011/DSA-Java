@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
+| [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/krishnasharma011/DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasharma011/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
+| [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/krishnasharma011/DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -120,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/krishnasharma011/DSA-Java/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
