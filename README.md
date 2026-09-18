@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/krishnasharma011/DSA-Java/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasharma011/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
