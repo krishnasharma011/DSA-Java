@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/krishnasharma011/DSA-Java/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasharma011/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0980-unique-paths-iii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
