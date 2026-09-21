@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/krishnasharma011/DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
+| [0120-triangle](https://github.com/krishnasharma011/DSA-Java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/krishnasharma011/DSA-Java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
