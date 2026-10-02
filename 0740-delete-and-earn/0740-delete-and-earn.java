@@ -10,18 +10,12 @@ class Solution {
             freq[val]++;
         }
         int[] dp=new int[max+1];
-        Arrays.fill(dp,-1);
-        int ans=solve(0,freq,dp);
-        return ans;
-    }
-
-    private int solve(int idx,int[] freq,int[] dp) {
-        if(idx>=freq.length){
-            return 0;
+        
+        dp[0]=0;
+        dp[1]=freq[1];
+        for(int i=2;i<freq.length;i++){
+            dp[i]=Math.max(dp[i-1],dp[i-2]+(i*freq[i]));
         }
-        if(dp[idx]!=-1) return dp[idx];
-        int skip=solve(idx+1,freq,dp);
-        int pick=solve(idx+2,freq,dp)+(idx*freq[idx]);
-        return dp[idx]=Math.max(skip,pick);
+        return dp[max];
     }
 }
