@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
+| [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
