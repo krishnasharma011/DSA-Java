@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
+| [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasharma011/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
+| [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
