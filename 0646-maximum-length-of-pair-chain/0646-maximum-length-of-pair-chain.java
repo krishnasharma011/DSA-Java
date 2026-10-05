@@ -8,7 +8,7 @@ class Solution {
         for(int i = 1; i < n; i++) {
             for(int j = 0; j < i; j++) {
                 if(pairs[i][0] > pairs[j][1]) {
-                    dp[i] = dp[j] + 1; 
+                    dp[i] = Math.max(dp[i], dp[j] + 1); 
                 }
             }
             ans = Math.max(ans, dp[i]);
