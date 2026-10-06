@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/krishnasharma011/DSA-Java/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/krishnasharma011/DSA-Java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/krishnasharma011/DSA-Java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/krishnasharma011/DSA-Java/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/krishnasharma011/DSA-Java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
