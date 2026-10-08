@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasharma011/DSA-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasharma011/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasharma011/DSA-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/krishnasharma011/DSA-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
