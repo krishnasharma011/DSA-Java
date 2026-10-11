@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasharma011/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnasharma011/DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/krishnasharma011/DSA-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
