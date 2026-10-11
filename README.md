@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0120-triangle](https://github.com/krishnasharma011/DSA-Java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/krishnasharma011/DSA-Java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/krishnasharma011/DSA-Java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Linked List
