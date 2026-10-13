@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
+| [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
@@ -291,8 +293,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
