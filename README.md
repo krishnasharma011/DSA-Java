@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnasharma011/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Stack
