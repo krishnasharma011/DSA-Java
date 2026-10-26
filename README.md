@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/krishnasharma011/DSA-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnasharma011/DSA-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/krishnasharma011/DSA-Java/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/krishnasharma011/DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/krishnasharma011/DSA-Java/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/krishnasharma011/DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/krishnasharma011/DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -318,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
