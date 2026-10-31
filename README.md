@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/krishnasharma011/DSA-Java/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasharma011/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnasharma011/DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/krishnasharma011/DSA-Java/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
