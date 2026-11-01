@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/krishnasharma011/DSA-Java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/krishnasharma011/DSA-Java/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/krishnasharma011/DSA-Java/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnasharma011/DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasharma011/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
