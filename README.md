@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krishnasharma011/DSA-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishnasharma011/DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/krishnasharma011/DSA-Java/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/krishnasharma011/DSA-Java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/krishnasharma011/DSA-Java/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/krishnasharma011/DSA-Java/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/krishnasharma011/DSA-Java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
