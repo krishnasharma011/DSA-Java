@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/krishnasharma011/DSA-Java/tree/main/0695-max-area-of-island/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krishnasharma011/DSA-Java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/krishnasharma011/DSA-Java/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krishnasharma011/DSA-Java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krishnasharma011/DSA-Java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
