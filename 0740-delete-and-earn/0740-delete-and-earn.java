@@ -1,21 +1,27 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
-        int n=nums.length;
-        int max=0;
-        for(int i=0;i<n;i++){
-            max=Math.max(max,nums[i]);
+        int n = nums.length;
+        int max = 0;
+        for (int val : nums) {
+            max = Math.max(val, max);
         }
-        int[] freq=new int[max+1];
-        for(int val:nums){
+        int[] freq = new int[max + 1];
+        for (int val : nums) {
             freq[val]++;
         }
-        int[] dp=new int[max+1];
-        
-        dp[0]=0;
-        dp[1]=freq[1];
-        for(int i=2;i<freq.length;i++){
-            dp[i]=Math.max(dp[i-1],dp[i-2]+(i*freq[i]));
-        }
-        return dp[max];
+        int[] dp = new int[max + 1];
+        Arrays.fill(dp, -1);
+        int ans = solve(0, freq, dp);
+        return ans;
+    }
+
+    private int solve(int idx, int[] freq, int[] dp) {
+        if (idx >= freq.length)
+            return 0;
+        if (dp[idx] != -1)
+            return dp[idx];
+        int skip = solve(idx + 1, freq, dp);
+        int pick = idx * freq[idx] + solve(idx + 2, freq, dp);
+        return dp[idx] = Math.max(pick, skip);
     }
 }
