@@ -1,8 +1,23 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        Boolean[] dp = new Boolean[s.length()];
-        Arrays.fill(dp, null);
-        return solve(0, s, wordDict, dp);
+        int n = s.length();
+        boolean[] dp = new boolean[n + 1];
+        // Arrays.fill(dp, null);
+        dp[n] = true;
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = i + 1; j <= n; j++) {
+                String temp = s.substring(i,j);
+                if(wordDict.contains(temp)){
+                    if(dp[j] == true) {
+                        dp[i] = true;
+                        break;
+                    }
+                }
+            }
+        }
+        return dp[0];
+
+        // return solve(0, s, wordDict, dp);
     }
 
     private boolean solve(int idx, String s, List<String> li, Boolean[] dp) {
