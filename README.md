@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasharma011/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krishnasharma011/DSA-Java/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krishnasharma011/DSA-Java/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0174-dungeon-game](https://github.com/krishnasharma011/DSA-Java/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/krishnasharma011/DSA-Java/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/krishnasharma011/DSA-Java/tree/main/0198-house-robber/) | Medium |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishnasharma011/DSA-Java/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0409-longest-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/krishnasharma011/DSA-Java/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/krishnasharma011/DSA-Java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/0409-longest-palindrome/) | Easy |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnasharma011/DSA-Java/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
