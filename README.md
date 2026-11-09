@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0688-knight-probability-in-chessboard](https://github.com/krishnasharma011/DSA-Java/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/krishnasharma011/DSA-Java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/krishnasharma011/DSA-Java/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnasharma011/DSA-Java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
