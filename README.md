@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/krishnasharma011/DSA-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/krishnasharma011/DSA-Java/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/krishnasharma011/DSA-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/krishnasharma011/DSA-Java/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/krishnasharma011/DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/krishnasharma011/DSA-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/krishnasharma011/DSA-Java/tree/main/3665-twisted-mirror-path-count/) | Medium |
