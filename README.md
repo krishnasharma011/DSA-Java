@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/krishnasharma011/DSA-Java/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/krishnasharma011/DSA-Java/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krishnasharma011/DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnasharma011/DSA-Java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/krishnasharma011/DSA-Java/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/krishnasharma011/DSA-Java/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/krishnasharma011/DSA-Java/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
