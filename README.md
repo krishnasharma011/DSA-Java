@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/krishnasharma011/DSA-Java/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnasharma011/DSA-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/krishnasharma011/DSA-Java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/krishnasharma011/DSA-Java/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0392-is-subsequence](https://github.com/krishnasharma011/DSA-Java/tree/main/0392-is-subsequence/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/krishnasharma011/DSA-Java/tree/main/0576-out-of-boundary-paths/) | Medium |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/krishnasharma011/DSA-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnasharma011/DSA-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0647-palindromic-substrings](https://github.com/krishnasharma011/DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/krishnasharma011/DSA-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0518-coin-change-ii/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
@@ -394,5 +398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
