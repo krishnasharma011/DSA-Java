@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/krishnasharma011/DSA-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/krishnasharma011/DSA-Java/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krishnasharma011/DSA-Java/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishnasharma011/DSA-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/krishnasharma011/DSA-Java/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/krishnasharma011/DSA-Java/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/krishnasharma011/DSA-Java/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krishnasharma011/DSA-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/krishnasharma011/DSA-Java/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/krishnasharma011/DSA-Java/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/krishnasharma011/DSA-Java/tree/main/1048-longest-string-chain/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/krishnasharma011/DSA-Java/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
