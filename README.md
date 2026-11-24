@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasharma011/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishnasharma011/DSA-Java/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/krishnasharma011/DSA-Java/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/krishnasharma011/DSA-Java/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0409-longest-palindrome](https://github.com/krishnasharma011/DSA-Java/tree/main/0409-longest-palindrome/) | Easy |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishnasharma011/DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/krishnasharma011/DSA-Java/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/krishnasharma011/DSA-Java/tree/main/0115-distinct-subsequences/) | Hard |
+| [0127-word-ladder](https://github.com/krishnasharma011/DSA-Java/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/krishnasharma011/DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/krishnasharma011/DSA-Java/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/krishnasharma011/DSA-Java/tree/main/0290-word-pattern/) | Easy |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/krishnasharma011/DSA-Java/tree/main/0127-word-ladder/) | Hard |
 | [0207-course-schedule](https://github.com/krishnasharma011/DSA-Java/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/krishnasharma011/DSA-Java/tree/main/0322-coin-change/) | Medium |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/krishnasharma011/DSA-Java/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/krishnasharma011/DSA-Java/tree/main/1049-last-stone-weight-ii/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/krishnasharma011/DSA-Java/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
